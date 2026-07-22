@@ -1,0 +1,19 @@
+extensions/quickshell/package.json
+  s_c794253886b768::t_fde90eb56757c1 102
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.15",
+  "base_commit_sha": "3ab613ffb762993f64bcb64712de23e194a47092",
+  "prompts": {},
+  "sessions": {
+    "s_c794253886b768": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "e24003b2-00dc-4a6f-9b84-6da0006dc969",
+        "model": "default"
+      },
+      "human_author": "tonythethompson <github@trackdub.com>"
+    }
+  }
+}
