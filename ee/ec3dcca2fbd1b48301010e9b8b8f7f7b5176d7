@@ -1,0 +1,233 @@
+extensions/quickshell/.gitattributes
+  s_c794253886b768::t_989aff9d0810ee 1-10
+extensions/quickshell/.gitignore
+  s_c794253886b768::t_708755134c9b0f 1-8
+extensions/quickshell/.npmrc
+  s_c794253886b768::t_5343ad5233f377 1
+extensions/quickshell/.nvmrc
+  s_c794253886b768::t_674d71043e2ef7 1
+extensions/quickshell/.prettierrc
+  s_c794253886b768::t_f0c08229cb5469 1-7
+extensions/quickshell/CHANGELOG.md
+  s_c794253886b768::t_8806f355a7c094 1-40
+extensions/quickshell/README.md
+  s_c794253886b768::t_62261615867341 1-78
+extensions/quickshell/eslint.config.js
+  s_c794253886b768::t_10827175094551 1-4
+extensions/quickshell/package-lock.json
+  s_c794253886b768::t_a7cc399dbf3da4 1-4103
+extensions/quickshell/package.json
+  s_c794253886b768::t_a9ac9cbc6275d7 1-167
+extensions/quickshell/scripts/generate-icons.sh
+  s_c794253886b768::t_a114980a2ce32b 1-22
+extensions/quickshell/scripts/sync-workspace-trust-features.js
+  s_c794253886b768::t_2dbe355d71ccea 1-30
+extensions/quickshell/scripts/verify-raycast-cli.js
+  s_c794253886b768::t_50f4885be86db1 1-58
+extensions/quickshell/setup-template.iss
+  s_c794253886b768::t_2bc5d1e77b0cb5 1-39
+extensions/quickshell/src/__tests__/companion-detection.test.ts
+  s_c794253886b768::t_f6fa894e0b614b 1-63
+extensions/quickshell/src/__tests__/companion-form.test.ts
+  s_c794253886b768::t_a08b5c00d0930d 1-148
+extensions/quickshell/src/__tests__/create-workspace-initial.test.ts
+  s_c794253886b768::t_2353a3775f253a 1-42
+extensions/quickshell/src/__tests__/detect-dev-server-url.test.ts
+  s_c794253886b768::t_5a290ba233ed84 1-31
+extensions/quickshell/src/__tests__/directory-helpers.test.ts
+  s_c794253886b768::t_41a9762043f448 1-26
+extensions/quickshell/src/__tests__/easy-gaps.test.ts
+  s_c794253886b768::t_27458912dc93c4 1-196
+extensions/quickshell/src/__tests__/extension-preferences.test.ts
+  s_c794253886b768::t_ceb38b9a251ce9 1-69
+extensions/quickshell/src/__tests__/git-launch-gate.test.ts
+  s_c794253886b768::t_6000f22979fe11 1-102
+extensions/quickshell/src/__tests__/git-repo-discovery.test.ts
+  s_c794253886b768::t_dfd05116c6776b 1-96
+extensions/quickshell/src/__tests__/git-repo-search-roots-mac.test.ts
+  s_c794253886b768::t_bc7f3f05339a09 1-36
+extensions/quickshell/src/__tests__/import-export.test.ts
+  s_c794253886b768::t_c5d269733895af 1-113
+extensions/quickshell/src/__tests__/launch-context.test.ts
+  s_c794253886b768::t_84f9e674a2a4fb 1-29
+extensions/quickshell/src/__tests__/launch-diagnostics.test.ts
+  s_c794253886b768::t_51726dcc13b1bb 1-83
+extensions/quickshell/src/__tests__/launch-executor.test.ts
+  s_c794253886b768::t_1f356207dfcf35 1-351
+extensions/quickshell/src/__tests__/launch-grouping.test.ts
+  s_c794253886b768::t_6515e2259ceaeb 1-88
+extensions/quickshell/src/__tests__/mac-launch.test.ts
+  s_c794253886b768::t_740fd4abed6e9e 1-51
+extensions/quickshell/src/__tests__/mac-post-launch.test.ts
+  s_c794253886b768::t_c473be249ff71a 1-42
+extensions/quickshell/src/__tests__/migration.test.ts
+  s_c794253886b768::t_a5d52b0d7939c7 1-153
+extensions/quickshell/src/__tests__/pill-key.test.ts
+  s_c794253886b768::t_03a561a9bc5ca3 1-14
+extensions/quickshell/src/__tests__/post-launch-actions.test.ts
+  s_c794253886b768::t_3635b523d00934 1-68
+extensions/quickshell/src/__tests__/project-setup-suggestion.test.ts
+  s_c794253886b768::t_f86a9d03120bf9 1-72
+extensions/quickshell/src/__tests__/ranking.test.ts
+  s_c794253886b768::t_415f2bd5a6e6d5 1-144
+extensions/quickshell/src/__tests__/schema.test.ts
+  s_c794253886b768::t_7b9fe4238350fe 1-16
+extensions/quickshell/src/__tests__/search.test.ts
+  s_c794253886b768::t_26789cad2f1c69 1-98
+extensions/quickshell/src/__tests__/security.test.ts
+  s_c794253886b768::t_abb0247f6234bf 1-361
+extensions/quickshell/src/__tests__/settings.test.ts
+  s_c794253886b768::t_887f1e6c2c8081 1-11
+extensions/quickshell/src/__tests__/single-row-launch.test.ts
+  s_c794253886b768::t_b85ed349f583ac 1-58
+extensions/quickshell/src/__tests__/storage.test.ts
+  s_c794253886b768::t_78f8e48c9d28da 1-324
+extensions/quickshell/src/__tests__/suggest-commands.test.ts
+  s_c794253886b768::t_847470c54facdd 1-56
+extensions/quickshell/src/__tests__/task-type-accent.test.ts
+  s_c794253886b768::t_04d0c92c2f1c45 1-34
+extensions/quickshell/src/__tests__/terminal-catalog.test.ts
+  s_c794253886b768::t_0b8b5feed6c155 1-59
+extensions/quickshell/src/__tests__/terminal-host-exists.test.ts
+  s_c794253886b768::t_648b629d404eac 1-74
+extensions/quickshell/src/__tests__/terminal-options.test.ts
+  s_c794253886b768::t_4b1122dd980b46 1-13
+extensions/quickshell/src/__tests__/trust-import-flow.test.ts
+  s_c794253886b768::t_1022dffd9c3ca1 1-158
+extensions/quickshell/src/__tests__/validation.test.ts
+  s_c794253886b768::t_4baff1453a5f8d 1-58
+extensions/quickshell/src/__tests__/windows-launch.test.ts
+  s_c794253886b768::t_a731df2814ed45 1-256
+extensions/quickshell/src/__tests__/workspace-form-state.test.ts
+  s_c794253886b768::t_3f77f4533b5417 1-301
+extensions/quickshell/src/__tests__/workspace-health-index.test.ts
+  s_c794253886b768::t_aa43671536b209 1-54
+extensions/quickshell/src/__tests__/workspace-health.test.ts
+  s_c794253886b768::t_08881e625b745a 1-108
+extensions/quickshell/src/__tests__/workspace-transfer-files.test.ts
+  s_c794253886b768::t_47ea8d7fa1d85c 1-31
+extensions/quickshell/src/components/add-separator-form.tsx
+  s_c794253886b768::t_5871616a93843e 1-45
+extensions/quickshell/src/components/discover-git-repos-view.tsx
+  s_c794253886b768::t_c1b4bec07df10b 1-251
+extensions/quickshell/src/components/edit-workspace-view.tsx
+  s_c794253886b768::t_6ce61385dcfa9f 1-51
+extensions/quickshell/src/components/set-target-branch-form.tsx
+  s_c794253886b768::t_ad725f0fddd4ea 1-111
+extensions/quickshell/src/components/unsupported-platform-view.tsx
+  s_c794253886b768::t_384f4fb3ee8e38 1-13
+extensions/quickshell/src/components/workspace-form.tsx
+  s_c794253886b768::t_500d11a3fa508a 1-806
+extensions/quickshell/src/lib/companion-catalog.ts
+  s_c794253886b768::t_58f3f5889cc7be 1-328
+extensions/quickshell/src/lib/companion-detection.ts
+  s_c794253886b768::t_7a5b09b6e10b6a 1-51
+extensions/quickshell/src/lib/create-workspace-initial.ts
+  s_c794253886b768::t_db3a4ab9284422 1-56
+extensions/quickshell/src/lib/detect-dev-server-url.ts
+  s_c794253886b768::t_a02b04e7f1bd31 1-108
+extensions/quickshell/src/lib/directory-helpers.ts
+  s_c794253886b768::t_83021c1995734b 1-34
+extensions/quickshell/src/lib/extension-assets.ts
+  s_c794253886b768::t_db6a2fa84bbf6e 1-3
+extensions/quickshell/src/lib/extension-preferences.ts
+  s_c794253886b768::t_ea59fc777fab3a 1-10
+extensions/quickshell/src/lib/failure-feedback.ts
+  s_c794253886b768::t_8c915e24e8b04f 1-77
+extensions/quickshell/src/lib/git-launch-gate.ts
+  s_c794253886b768::t_b1290d89bde792 1-272
+extensions/quickshell/src/lib/git-remote-url.ts
+  s_c794253886b768::t_5cdb86e64483e0 1-44
+extensions/quickshell/src/lib/git-repo-discovery.ts
+  s_c794253886b768::t_b375246cd7faa0 1-223
+extensions/quickshell/src/lib/git-repo-search-roots.ts
+  s_c794253886b768::t_5cae73d779195c 1-224
+extensions/quickshell/src/lib/ids.ts
+  s_c794253886b768::t_2ebf715e6e571a 1-15
+extensions/quickshell/src/lib/import-export.ts
+  s_c794253886b768::t_cd6d6c6984b28e 1-209
+extensions/quickshell/src/lib/launch-context.ts
+  s_c794253886b768::t_fbf1ea5803f87f 1-34
+extensions/quickshell/src/lib/launch-diagnostics.ts
+  s_c794253886b768::t_304c930afeb069 1-43
+extensions/quickshell/src/lib/launch-executor.ts
+  s_c794253886b768::t_e6609efa57610b 1-130
+extensions/quickshell/src/lib/launch-grouping.ts
+  s_c794253886b768::t_c1b1a3ff4698b9 1-83
+extensions/quickshell/src/lib/mac-launch.ts
+  s_c794253886b768::t_97077de24655f6 1-134
+extensions/quickshell/src/lib/migration.ts
+  s_c794253886b768::t_27eed45e8303c0 1-344
+extensions/quickshell/src/lib/platform.ts
+  s_c794253886b768::t_ca5c12f12c713d 1-12
+extensions/quickshell/src/lib/post-launch-actions.ts
+  s_c794253886b768::t_0986e027d60efc 1-187
+extensions/quickshell/src/lib/preferences.ts
+  s_c794253886b768::t_35c2b25ccf750f 1-46
+extensions/quickshell/src/lib/project-setup-suggestion.ts
+  s_c794253886b768::t_da5a1185ce4275 1-200
+extensions/quickshell/src/lib/ranking.ts
+  s_c794253886b768::t_9f4866fb81826d 1-217
+extensions/quickshell/src/lib/raycast-exec.ts
+  s_c794253886b768::t_ea819b8e03cee9 1-19
+extensions/quickshell/src/lib/raycast-storage.ts
+  s_c794253886b768::t_0ea951d0a9b592 1-28
+extensions/quickshell/src/lib/schema.ts
+  s_c794253886b768::t_8dcc41aad650ad 1-122
+extensions/quickshell/src/lib/search.ts
+  s_c794253886b768::t_1b0050ef9151f0 1-213
+extensions/quickshell/src/lib/security.ts
+  s_c794253886b768::t_ff9035dcbadad8 1-484
+extensions/quickshell/src/lib/settings.ts
+  s_c794253886b768::t_7cf683a29a2ff4 1-18
+extensions/quickshell/src/lib/shortcuts.ts
+  s_c794253886b768::t_be45ef7f637396 1-27
+extensions/quickshell/src/lib/storage.ts
+  s_c794253886b768::t_89f6f232fee130 1-723
+extensions/quickshell/src/lib/suggest-commands.ts
+  s_c794253886b768::t_7b0f606d8fe439 1-117
+extensions/quickshell/src/lib/task-type-accent.ts
+  s_c794253886b768::t_156009e6e315bd 1-21
+extensions/quickshell/src/lib/terminal-catalog.ts
+  s_c794253886b768::t_5b1b7d190c5b7d 1-447
+extensions/quickshell/src/lib/terminal-options.ts
+  s_c794253886b768::t_35118296005e20 1-130
+extensions/quickshell/src/lib/use-load-error-toast.ts
+  s_c794253886b768::t_fac9704dd17d81 1-11
+extensions/quickshell/src/lib/validation.ts
+  s_c794253886b768::t_ad469e25212185 1-267
+extensions/quickshell/src/lib/windows-launch.ts
+  s_c794253886b768::t_ca656a520bc8b0 1-425
+extensions/quickshell/src/lib/workspace-form-state.ts
+  s_c794253886b768::t_e5f3f7c9d00431 1-257
+extensions/quickshell/src/lib/workspace-health-index.ts
+  s_c794253886b768::t_8cab0f4d796c4f 1-92
+extensions/quickshell/src/lib/workspace-health.ts
+  s_c794253886b768::t_5be34ed0c4060c 1-323
+extensions/quickshell/src/lib/workspace-transfer-files.ts
+  s_c794253886b768::t_605822ff934fc6 1-95
+extensions/quickshell/src/lib/workspace-trust-features.json
+  s_c794253886b768::t_dc53024d72d1fd 1-3
+extensions/quickshell/src/open-workspace.tsx
+  s_c794253886b768::t_d7dd276ac55f85 1-1160
+extensions/quickshell/tsconfig.json
+  s_c794253886b768::t_61e890e6341075 1-18
+extensions/quickshell/vitest.config.ts
+  s_c794253886b768::t_e4cd5a313c537c 1-8
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.15",
+  "base_commit_sha": "eeec3dcca2fbd1b48301010e9b8b8f7f7b5176d7",
+  "prompts": {},
+  "sessions": {
+    "s_c794253886b768": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "e24003b2-00dc-4a6f-9b84-6da0006dc969",
+        "model": "default"
+      },
+      "human_author": "tonythethompson <github@trackdub.com>"
+    }
+  }
+}
