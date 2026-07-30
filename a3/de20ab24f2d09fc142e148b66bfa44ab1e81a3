@@ -1,0 +1,29 @@
+extensions/quickshell/scripts/sync-workspace-trust-features.js
+  s_9d7eca6742e9bb::t_db41e26e98d65f 13-18
+extensions/quickshell/src/components/set-target-branch-form.tsx
+  s_9d7eca6742e9bb::t_792e487535a825 29-37
+  s_9d7eca6742e9bb::t_05333d1b8d1c73 115-116
+extensions/quickshell/src/components/discover-git-repos-view.tsx
+  s_9d7eca6742e9bb::t_fdc28cdd4201f6 265,267-272
+extensions/quickshell/src/lib/git-repo-search-roots.ts
+  s_9d7eca6742e9bb::t_de650a904daf66 51
+extensions/quickshell/src/__tests__/security.test.ts
+  s_9d7eca6742e9bb::t_d84e3b00f576f3 1
+  s_9d7eca6742e9bb::t_db09588903e19b 447-455
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.2",
+  "base_commit_sha": "a3de20ab24f2d09fc142e148b66bfa44ab1e81a3",
+  "prompts": {},
+  "sessions": {
+    "s_9d7eca6742e9bb": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "8602b04a-78b7-4b77-81bc-9e9f4c488101",
+        "model": "default"
+      },
+      "human_author": "tonythethompson <github@trackdub.com>"
+    }
+  }
+}
